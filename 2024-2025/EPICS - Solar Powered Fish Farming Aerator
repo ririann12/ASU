@@ -1,7 +1,13 @@
-Description: 
+Description of Project : 
 A floating photovoltaic aerator/feeder for shrimp farming that recycles oxygen throughout the water, 
 reducing pollution and manual labor. Presently collaborating with an engineering team from Binus University,
 Indonesia and Crustea, an Indonesian SDG investment platform. 
 
-Design Process: 
+Design Process : 
+The protoype has been designed in CAD, but not yet made in action. We are determined to configurate a raspberry pi arduino coded with python. We are working on wiring sensors 
+throughout the aerator, allowing oxygen to be recirculated, and the solar power to be store energy in a battery. For mechanics, we are researching materials to safekeep these 
+electrical components and protect them from the water and possible fish/shrimp damage. 
+
+
+
 
